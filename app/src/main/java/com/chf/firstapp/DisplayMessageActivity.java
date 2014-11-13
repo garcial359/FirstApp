@@ -43,11 +43,12 @@ public class DisplayMessageActivity extends ActionBarActivity {
         textView.setText(newString);
         setContentView(textView);
 
-        if (savedInstanceState == null) {
+/*        if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.container, new PlaceholderFragment())
                     .commit();
         }
+*/
     }
 
 
