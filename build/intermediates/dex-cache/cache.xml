@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Lucas\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\classes-f7e2e739560854da7f9ecf416b0bc2eb15ada5d5.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FirstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+    <item
+        dex="C:\Users\Lucas\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-6b97e4f6b223369e681ca7643fb5179d1778d5d7.jar"
+        jar="C:\Dev-tools\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="C:\Users\Lucas\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-54d7ba39d48c37b2e38eaf7f5b2f598636b88160.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="C:\Users\Lucas\AndroidStudioProjects\FirstApp\app\build\intermediates\pre-dexed\debug\classes-e458aeb656124be703387d6aad0d7741fa17537b.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+
+</pre-dex-items>
